@@ -20,7 +20,6 @@ def main():
 if __name__ == '__main__':
     main()
     print 'test'
-    print 'test'
     i=1
     if (i!=1):
         pass
