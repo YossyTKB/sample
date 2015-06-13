@@ -21,6 +21,7 @@ if __name__ == '__main__':
     main()
     print 'test'
     print 'hello'
+    print 'fix_02'
 
 
 
